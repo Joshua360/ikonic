@@ -3,7 +3,7 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="about-three__image">
-                            <img src="assets/images/resources/us.jpg" alt="">
+                            <img src="assets/images/resources/team-2.jpg" alt="">
                         </div><!-- /.about-three__image -->
                     </div><!-- /.col-lg-6 -->
                     <div class="col-lg-6">

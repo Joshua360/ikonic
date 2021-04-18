@@ -26,7 +26,7 @@
                         <div class="contact-one__content">
                             <div class="block-title">
                                 <p>Contact us now</p>
-                                <h3>Leave Us a Message</h3>
+                                <h3>Get in touch with us now</h3>
                             </div><!-- /.block-title -->
                             <div class="contact-one__summery">
                                 <p>Got any questions or suggestions about our products? Drop us a message and we reply asap</p>
@@ -39,7 +39,7 @@
                         </div><!-- /.contact-one__content -->
                     </div><!-- /.col-sm-12 -->
                     <div class="col-sm-12 col-md-12 col-lg-6 col-xl-8">
-                        <form action="assets/inc/sendemail.php" class="contact-one__form contact-form-validated">
+                        <form action="contact-form.php" class="contact-one__form contact-form-validated">
                             <div class="row">
                                 <div class="col-lg-6">
                                     <input type="text" name="name" placeholder="Full Name">

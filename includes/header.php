@@ -5,12 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ikonic Agricultural Machinery Ltd</title>
-    <!-- favicons Icons -->
-    <!-- <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png">
-    <link rel="manifest" href="assets/images/favicons/site.webmanifest">
-    <meta name="description" content="Agrikon HTML Template For Agriculture Farm & Farmers"> -->
+
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -22,7 +17,7 @@
     <link rel="stylesheet" href="assets/css/animate.min.css">
     <link rel="stylesheet" href="assets/css/odometer.min.css">
     <link rel="stylesheet" href="assets/css/jarallax.css">
-    <link rel="stylesheet" href="assets/css/magnific-popup.css">
+    <!-- <link rel="stylesheet" href="assets/css/magnific-popup.css"> -->
     <link rel="stylesheet" href="assets/css/bootstrap-select.min.css">
     <link rel="stylesheet" href="assets/css/agrikon-icons.css">
     <link rel="stylesheet" href="assets/css/nouislider.min.css">
@@ -40,20 +35,20 @@
     <div class="page-wrapper">
 
         <header class="main-header">
-            <div class="topbar">
+            <div class="topbar" style="background:#800000;">
                 <div class="container">
                     <div class="topbar__left">
                         <div class="topbar__social">
-                            <a href="https://www.facebook.com/www.ikonicltd.co.ke/" target="_blank" class="fab fa-facebook-square"></a>
-                            <a href="#" class="fab fa-twitter"></a>
-                            <a href="#" class="fab fa-pinterest-p"></a>
-                            <a href="#" class="fab fa-instagram"></a>
+                            <a href="https://www.facebook.com/www.ikonicltd.co.ke/" target="_blank" class="fab fa-facebook-square" id="icon-3"></a>
+                            <a href="https://twitter.com/Ikonic_Agri_Ltd" target="_blank" class="fab fa-twitter" id="icon-1"></a>
+                            <a href="https://www.linkedin.com/in/ikonic-agricultural-machinery-aaa791179/" target="_blank" class="fab fa-linkedin" id="icon-1"></a>
+                            <a href="https://www.instagram.com/ikonic_agri_machinery/" target="_blank" class="fab fa-instagram" id="icon-2"></a>
                         </div><!-- /.topbar__social -->
-                        <p>Welcome to Ikonic Agricultural Machinery</p>
+                        <p style="color:white;">Welcome to Ikonic Agricultural Machinery</p>
                     </div><!-- /.topbar__left -->
                     <div class="topbar__right">
-                        <a href="#"><i class="agrikon-icon-email"></i>sales@ikonicltd.co.ke</a>
-                        <a href="#"><i class="agrikon-icon-clock"></i>Mon - Sat 8:00 - 6:30, Sunday - CLOSED</a>
+                        <a href="mailto:sales@ikonicltd.co.ke" style="color:white;"><i class="agrikon-icon-email" id="icon-4" ></i>sales@ikonicltd.co.ke</a>
+                        <a href="#" style="color:white;"><i class="agrikon-icon-clock" id="icon-5"></i>Mon - Sat 8:00 - 6:30, Sunday - CLOSED</a>
                     </div><!-- /.topbar__right -->
                 </div><!-- /.container -->
             </div><!-- /.topbar -->
@@ -81,14 +76,9 @@
                         </li>
 
 
-
-                        <li><a href="#">OUR BLOG</a>
+                        <!-- <li><a href="#">OUR SHOP</a>
                             
-                        </li>
-
-                        <li><a href="#">OUR SHOP</a>
-                            
-                        </li>
+                        </li> -->
 
                         <li><a href="contact.php">CONTACT US</a></li>
                         
@@ -97,13 +87,12 @@
                     <!-- /.main-menu__list -->
 
                     <div class="main-header__info">
-                        <a href="#" class="search-toggler main-header__search-btn"><i class="agrikon-icon-magnifying-glass"></i></a>
-                        <a class="main-header__cart-btn" href="#"><i class="agrikon-icon-shopping-cart"></i></a>
+                    
+                        
                         <a href="tel:+254 707 414 141" class="main-header__info-phone">
-                            <i class="agrikon-icon-phone-call"></i>
+                            <i class=""></i>
                             <span class="main-header__info-phone-content">
-                                <span class="main-header__info-phone-text">Call Anytime</span>
-                                <span class="main-header__info-phone-title">+254 707 414 141
+                                <span class="main-header__info-phone-title">Call: +254 707 414 141
                                 </span>
                             </span><!-- /.main-header__info-phone-content -->
                         </a><!-- /.main-header__info-phone -->
@@ -112,3 +101,21 @@
             </nav>
             <!-- /.main-menu -->
         </header><!-- /.main-header -->
+
+        <style>
+
+        #icon-1,
+        #icon-2,
+        #icon-3,
+        #icon-4,
+        #icon-5,
+        #icon-6,
+        #icon-7,
+        #icon8,
+        #icon-9,
+        #icon-10,
+        #icon-11{
+            color:white;
+        }
+        
+        </style>

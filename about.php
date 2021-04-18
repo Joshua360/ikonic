@@ -51,7 +51,7 @@
                     </div><!-- /.col-lg-6 -->
                     <div class="col-lg-6">
                         <div class="feature-one__image">
-                            <img src="assets/images/resources/the-brand.jpg" alt="">
+                            <img src="assets/images/resources/team.jpg" alt="">
                         </div><!-- /.feature-one__image -->
                     </div><!-- /.col-lg-6 -->
                 </div><!-- /.row -->

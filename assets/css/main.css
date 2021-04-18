@@ -2775,7 +2775,7 @@ h6 {
 }
 
 .topbar__social a {
-  color: #6e7673;
+  color: #fff;
   font-size: 12px;
   -webkit-transition: all 500ms ease;
   transition: all 500ms ease;
@@ -4164,7 +4164,7 @@ h6 {
 # Footer
 --------------------------------------------------------------*/
 .site-footer {
-  background-color: #008080;
+  background-color:#255946;  /*#008080 */
   padding-top: 80px;
   padding-bottom: 40px;
   position: relative;

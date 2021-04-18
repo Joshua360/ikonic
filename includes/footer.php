@@ -17,12 +17,17 @@
                             </form><!-- /.mc-form -->
                             <div class="mc-form__response"></div><!-- /.mc-form__response -->
                             <div class="footer__social">
-                                <a href="#" class="fab fa-facebook-square"></a>
-                                <a href="#" class="fab fa-twitter"></a>
-                                <a href="#" class="fab fa-instagram"></a>
+                                <a href="https://www.facebook.com/IKONICAGRICMACHINERY" id="icon-6" class="fab fa-facebook-square" target="_blank"></a>
+                                <a href="https://twitter.com/Ikonic_Agri_Ltd" id="icon-7" class="fab fa-twitter" target="_blank"></a>
+                                <a href="https://www.linkedin.com/in/ikonic-agricultural-machinery-aaa791179/" id="icon-17" class="fab fa-linkedin" target="_blank"></a>
+
+                                <a href="https://www.instagram.com/ikonic_agri_machinery/" target="_blank" id="icon-8" class="fab fa-instagram"></a>
                             </div><!-- /.topbar__social -->
                         </div><!-- /.footer-widget -->
                     </div><!-- /.col-sm-12 col-md-6 col-lg-4 -->
+
+
+          
                     <div class="col-sm-12 col-md-6 col-lg-6 col-xl-2">
                         <div class="footer-widget footer-widget__links-widget">
                             <h3 class="footer-widget__title">Links</h3><!-- /.footer-widget__title -->
@@ -60,15 +65,15 @@
                         <h3 class="footer-widget__title">Contact</h3><!-- /.footer-widget__title -->
                         <ul class="list-unstyled footer-widget__contact">
                             <li>
-                                <i class="agrikon-icon-telephone"></i>
+                                <i class="agrikon-icon-telephone" id="icon-9"></i>
                                 <a href="tel:666-888-0000"> +254 (0)707 414 141</a>
                             </li>
                             <li>
-                                <i class="agrikon-icon-email"></i>
+                                <i class="agrikon-icon-email" id="icon-10"></i>
                                 <a href="mailto:sales@ikonicltd.co.ke">sales@ikonicltd.co.ke</a>
                             </li>
                             <li>
-                                <i class="agrikon-icon-pin"></i>
+                                <i class="agrikon-icon-pin" id="icon-11"></i>
                                 <a href="#">Ngara, along Park Road, next to Blue Hut Hotel opp Muslim Academy.</a>
                             </li>
                         </ul><!-- /.list-unstyled -->
@@ -106,11 +111,11 @@
             <ul class="mobile-nav__contact list-unstyled">
                 <li>
                     <i class="agrikon-icon-email"></i>
-                    <a href="mailto:needhelp@agrikon.com">needhelp@agrikon.com</a>
+                    <a href="mailto:needhelp@agrikon.com">sales@ikonicltd.co.ke</a>
                 </li>
                 <li>
                     <i class="agrikon-icon-telephone"></i>
-                    <a href="tel:666-888-0000">666 888 0000</a>
+                    <a href="tel:666-888-0000">+254 (0)707 414 141</a>
                 </li>
             </ul><!-- /.mobile-nav__contact -->
             <div class="mobile-nav__top">
